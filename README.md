@@ -1,5 +1,5 @@
 # mythicbattlegrounds
-Mythic Creature Battle Royale
+Mythic Creature Battle Royale - Boss Battle then reamaining teams fight in battle royale 
 
 
 **Boss Battle Preparation:** Players would start by forming teams or alliances to take on the boss battle together. They could strategize and choose their mythical creatures based on their unique abilities and how they complement each other.
