@@ -2,7 +2,7 @@
 Mythic Creature Battle Royale
 
 
-**Boss** Battle Preparation: Players would start by forming teams or alliances to take on the boss battle together. They could strategize and choose their mythical creatures based on their unique abilities and how they complement each other.
+**Boss Battle Preparation:** Players would start by forming teams or alliances to take on the boss battle together. They could strategize and choose their mythical creatures based on their unique abilities and how they complement each other.
 
 **Challenging Boss Fights:** The boss battles should be challenging and require coordination and teamwork to overcome. Each boss could have different mechanics, phases, and abilities, making the encounters diverse and engaging.
 
